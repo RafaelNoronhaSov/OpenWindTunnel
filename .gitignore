@@ -1,0 +1,5 @@
+build
+cmake-build-debug
+.idea/*
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
